@@ -1,4 +1,7 @@
 ﻿
+#include <iostream>
+using namespace std;
+
 void run() {
-    cout << "Running D2" << endl;
+    cout << "D2";
 }
