@@ -6,7 +6,9 @@
 using namespace std;
 
 //#include "D1/UVA_00100.cpp"
-#include "D2/UVA_12250.cpp"
+//#include "D2/UVA_12250.cpp"
+#include "D2/UVA_118.cpp"
+
 
 // 修改 DX/XXX.cpp 後要 Compile 前 建置(B) -> 重建目前文件(main.cpp)
 
