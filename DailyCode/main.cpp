@@ -4,11 +4,12 @@
 #include <iostream>
 #include <string>
 #include <cstring>
+#include <cmath>
 using namespace std;
 
 //#include "D1/UVA_00100.cpp"
 //#include "D8/UVA_10019.cpp"
-#include "D9/UVA_10035.cpp"
+#include "D10/UVA_10038.cpp"
 
 // 修改 DX/XXX.cpp 後要 Compile 前 建置(B) -> 重建目前文件(main.cpp)
 
